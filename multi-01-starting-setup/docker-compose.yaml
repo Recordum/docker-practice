@@ -27,7 +27,7 @@ services:
     tty: true
     depends_on:
       - backend
-
+## composer 3-tier
 volumes:
   data:
   logs:
